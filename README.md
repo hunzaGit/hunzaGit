@@ -65,7 +65,7 @@ I treat AI as just another layer of the product: it's useful for automating task
 
 * GitHub: right here 🙂
 * My website: [rodrigodemiguel.es](https://rodrigodemiguel.es)
-* LinkedIn: [linkedin.com/in/rodrigo-de-miguel-gonzalez/](https://www.linkedin.com/in/rodrigo-de-miguel-gonzalez/)
+* LinkedIn: [linkedin.com/in/rodrigodemiguel-dev/](https://www.linkedin.com/in/rodrigodemiguel-dev/)
 
 ---
 
@@ -85,7 +85,7 @@ though then I have to deal with 10-year-old backups 😅
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/hunzaGit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hunzaGit" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rodrigo-de-miguel-gonzalez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-de-miguel-gonzalez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rodrigodemiguel-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-de-miguel-gonzalez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7798759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7798759" height="30" width="40" /></a>
 </p>
 

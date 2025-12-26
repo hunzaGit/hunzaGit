@@ -65,7 +65,7 @@ La IA la trato como una capa más del producto: sirve para automatizar tareas, e
 
 * GitHub: aquí mismo 🙂
 * Mi web: [rodrigodemiguel.es](https://rodrigodemiguel.es)
-* LinkedIn: [linkedin.com/in/rodrigo-de-miguel-gonzalez/](https://www.linkedin.com/in/rodrigo-de-miguel-gonzalez/)
+* LinkedIn: [linkedin.com/in/rodrigodemiguel-dev/](https://www.linkedin.com/in/rodrigodemiguel-dev/)
 
 ---
 
@@ -85,7 +85,7 @@ aunque luego me toque pelearme con backups de hace 10 años 😅
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://github.com/hunzaGit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hunzaGit" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rodrigo-de-miguel-gonzalez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-de-miguel-gonzalez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rodrigodemiguel-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-de-miguel-gonzalez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7798759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7798759" height="30" width="40" /></a>
 </p>
 
