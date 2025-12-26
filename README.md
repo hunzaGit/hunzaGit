@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://rodrigodemiguel.es/" target="_blank" rel="noreferrer">
-    <img width="1077" height="221" alt="Banner of Rodrigo de Miguel" src="[https://github.com/user-attachments/assets/32db3661-1f12-4e2c-b980-fabaa68abdb0](https://github.com/user-attachments/assets/e89e291a-8b5e-42b7-ad21-1d8b44a89297)" />
+    <img width="1077" height="221" alt="Banner of Rodrigo de Miguel" src="https://github.com/user-attachments/assets/e89e291a-8b5e-42b7-ad21-1d8b44a89297" />
   </a>
 </p>
 <h2 align="center">Soy Emprendedor, Product Engineer y Data Architect! </h2>
