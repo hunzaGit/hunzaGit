@@ -76,9 +76,9 @@ aunque luego me toque pelearme con backups de hace 10 años 😅
 
 ---
 
-* 👨‍💻 Todos mis proyectos están disponibles en **[https://rodrigodemiguel.es](https://rodrigodemiguel.es)**
+* 👨‍💻 Todos mis proyectos están disponibles en **<a href="https://rodrigodemiguel.es/" rel="follow me">https://rodrigodemiguel.es/</a>**
 
-* 📝 Algún artículo en **[https://rodrigodemiguel.es/articles/](https://rodrigodemiguel.es/articles/)**
+* 📝 Algún artículo en **<a href="https://rodrigodemiguel.es/articles/" rel="follow me">https://rodrigodemiguel.es/articles/</a>**
 
 ---
 

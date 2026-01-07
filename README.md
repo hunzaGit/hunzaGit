@@ -76,9 +76,9 @@ though then I have to deal with 10-year-old backups 😅
 
 ---
 
-* 👨‍💻 All my projects are available at **[https://rodrigodemiguel.es](https://rodrigodemiguel.es)**
+* 👨‍💻 All my projects are available at **<a href="https://rodrigodemiguel.es/en/" rel="follow me">https://rodrigodemiguel.es/en/</a>**
 
-* 📝 Some articles at **[https://rodrigodemiguel.es/articles/](https://rodrigodemiguel.es/articles/)**
+* 📝 Some articles at **<a href="https://rodrigodemiguel.es/en/articles/" rel="follow me">https://rodrigodemiguel.es/en/articles/</a>**
 
 ---
 
