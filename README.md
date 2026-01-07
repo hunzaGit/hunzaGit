@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://rodrigodemiguel.es/" target="_blank" rel="noreferrer">
-    <img width="1077" height="221" alt="Rodrigo de Miguel Banner" src="https://github.com/user-attachments/assets/e89e291a-8b5e-42b7-ad21-1d8b44a89297" />
+    <img width="1077" height="221" alt="Rodrigo de Miguel Banner" style="border-radius: 20px" src="https://github.com/user-attachments/assets/e89e291a-8b5e-42b7-ad21-1d8b44a89297" />
   </a>
 </p>
 <h2 align="center">I'm an Entrepreneur, Product Engineer & Data Architect!</h2>
