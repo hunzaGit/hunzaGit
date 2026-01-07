@@ -1,7 +1,7 @@
 <h1 align="center"> Hola 👋, soy Rodrigo de Miguel ✨. </h2>
 
 <p align="center">
-  <a href="https://rodrigodemiguel.es/" target="_blank" rel="noreferrer">
+  <a href="https://rodrigodemiguel.es/" target="_blank" rel="noreferrer me">
     <img width="1077" height="221" alt="Banner de Rodrigo de Miguel" src="https://github.com/user-attachments/assets/32db3661-1f12-4e2c-b980-fabaa68abdb0" />
   </a>
 </p>
