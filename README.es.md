@@ -192,8 +192,8 @@ aunque luego me toque pelearme con backups de hace 10 años 😅
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunzaGit&show_icons=true&locale=es&layout=compact" alt="hunzaGit" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunzaGit&show_icons=true&locale=es&layout=compact" alt="hunzaGit" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunzaGit&show_icons=true&locale=es" alt="hunzaGit" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunzaGit&show_icons=true&locale=es" alt="hunzaGit" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunzaGit&locale=es" alt="hunzaGit" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunzaGit&locale=es" alt="hunzaGit" /></p> -->
