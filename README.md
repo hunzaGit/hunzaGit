@@ -107,14 +107,17 @@ though then I have to deal with 10-year-old backups 😅
 
 <h4 align="left">Frontend Development</h4>
 <p align="left">
+   <a href="https://astro.build/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=astro" alt="astro" width="40" height="40"/>
+    </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
@@ -143,6 +146,9 @@ though then I have to deal with 10-year-old backups 😅
 
 <h4 align="left">Databases</h4>
 <p align="left">
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
     </a>
@@ -165,6 +171,9 @@ though then I have to deal with 10-year-old backups 😅
 
 <h4 align="left">DevOps</h4>
 <p align="left">
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="github-actions" width="40" height="40"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
     </a>
